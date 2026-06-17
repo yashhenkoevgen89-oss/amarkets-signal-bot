@@ -1,5 +1,1 @@
-aiogram
-pandas
-numpy
-requests
-ta
+
